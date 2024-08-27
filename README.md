@@ -200,6 +200,3 @@ NOTAS GENERALES
 7. Los archivos Python se encuentran en la ruta "simulaciones/00_py"
 8. Los archivos de salida resultantes se encuentran en la ruta "simulaciones/01_salidas"
 9. Los archivos de salida del resumen se encuentran en la ruta "simulaciones/02_resumenes"
-10. Link de carpeta OneDrive de la información disponible por predio "https://fonaturgob-my.sharepoint.com/:f:/g/personal/jlflores_fonatur_gob_mx/Em03SapsvwBLnYDgX2MRobMBTZWYKh5jRuS25nGQGLLgxw?e=cdqcad"
-    Las carpetas en rojo son lotes que actualmente ya no están disponibles
-11. Los predios rentables se encuentran dentro de la ruta "E:\simulaciones\02_resumenes\02_Resumen_COP_220824" en la hoja "Predios rentables" con su respectiva información financiera.
